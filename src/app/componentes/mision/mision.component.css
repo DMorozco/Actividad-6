@@ -1,0 +1,17 @@
+.col-md-4 {
+    margin-top: 20px;
+}
+
+.imagen-redonda {
+    width: 180px; 
+  height: 180px; 
+  border-radius: 50%; 
+} 
+
+.col-md-6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col-md-6 p {
+    font-family: fantasy;
+}
