@@ -10,3 +10,11 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(54, 5, 103);
 }
+
+.row {
+    margin: 20px;
+}
+
+.card {
+    margin-bottom: 20px; 
+}

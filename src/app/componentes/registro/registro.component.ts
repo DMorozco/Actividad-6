@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { FormsModule } from '@angular/forms';
+
+
 
 @Component({
   selector: 'app-registro',
@@ -6,5 +9,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./registro.component.css']
 })
 export class RegistroComponent {
+nombre: any;
 
 }
+
